@@ -2,11 +2,12 @@
 
 ## Project description
 
-TODO: Replace this line with a 30-300 character description of what this project does. (This is part of the assignment, read on and it will make more sense.)
+In this project, we take the clinic_report.py and remove all the unusable rows. We then calculate statistics from the useable systolic blood pressure values and from that identify and create a list of patients who require a follow-up. 
 
 ## Run
 
-TODO: Replace this line with the Python 3.13 terminal command that runs your report script.
+python3 clinic_report.py
+
 
 ## Files
 
