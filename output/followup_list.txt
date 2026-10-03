@@ -1,0 +1,5 @@
+Cutoff: 155 mmHg
+Reason: I chose 155 mmHg to prioritize patients with higher systolic readings for the limited follow-up capacity and since they are more urgent.
+P011
+P018
+P025
